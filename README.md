@@ -1,2 +1,2 @@
 ## Technet 👋
-<a href="https://irenenjoki.github.io/portfolio/">Demo</a>
+<a href="https://irenenjoki.github.io/Technet/">Demo</a>
